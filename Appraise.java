@@ -2,6 +2,7 @@ package com.xtu.hrms.bean;
 
 import java.util.Date;
 
+
 public class Appraise {
     private Integer id;
     private Integer eid;
