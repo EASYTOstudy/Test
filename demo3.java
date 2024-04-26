@@ -4,6 +4,7 @@ import com.xtu.hrms.bean.Emp;
 
 import java.util.List;
 
+
 public interface EmpMapper {
     //    根据id查询员工
 
