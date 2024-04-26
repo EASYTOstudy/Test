@@ -6,6 +6,9 @@ import java.util.List;
 
 public interface EmpMapper {
     //    根据id查询员工
+
+
+    
     Emp getEmpById(Integer id);
 
     Emp getEmpAndDeptById(Integer id);
